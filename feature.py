@@ -5,3 +5,4 @@ print("Please give your numbers, if you are done enter something that is not a n
 list_of_numbers = []
 print("sigma")
 print("how are you bro :_) ")
+print("conflict1")
