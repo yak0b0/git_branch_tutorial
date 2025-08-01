@@ -4,3 +4,4 @@ print("Hi, welcome to our program!")
 print("Please give your numbers, if you are done enter something that is not a number!")
 list_of_numbers = []
 print("sigma")
+print("how are you bro :_) ")
